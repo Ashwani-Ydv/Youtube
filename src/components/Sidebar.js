@@ -47,6 +47,12 @@ const Sidebar = () => {
         <li>Gaming</li>
         <li>Movies</li>
       </ul>
+      <ul>
+        <li>Music</li>
+        <li>Sports</li>
+        <li>Gaming</li>
+        <li>Movies</li>
+      </ul>
     </div>
   );
 };
