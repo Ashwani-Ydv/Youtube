@@ -21,7 +21,7 @@ const Header = () => {
         />
         <a href="/">
           <img
-            className="h-8 mx-2"
+            className="h-6 mx-3 my-1"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png"
             alt="Youtube"
           />
